@@ -1,11 +1,10 @@
-package com.ganatragmail.sagar.weatherapp;
+package com.ganatragmail.sagar.weatherapp.data;
 
 import android.provider.BaseColumns;
 import android.text.format.Time;
 
-/**
- * Created by Sagar on 5/15/2015.
- */
+
+
 public class WeatherContract {
 
     public static long normalizeDate(long startDate){
